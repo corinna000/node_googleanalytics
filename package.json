@@ -1,0 +1,17 @@
+{
+  "name": "sci-ga",
+  "version": "0.0.1",
+  "description": "science ga api tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "dependencies" : {
+    "gapitoken" : ">= 0.0.1",
+    "dashdash"  : ">= 1.0.2",
+    "async"     : ">= 0.2.6"
+},
+  "repository": "",
+  "author": "ccohn",
+  "license": "BSD"
+}
